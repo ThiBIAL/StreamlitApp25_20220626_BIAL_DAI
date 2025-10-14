@@ -1,0 +1,26 @@
+# Python envs / caches
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Data / large files
+/data/
+/data_raw/
+/*.parquet
+/*.feather
+/*.zip
+
+# Pip / build caches
+.cache/
+pip-wheel-metadata/
+
+# Secrets
+.env
