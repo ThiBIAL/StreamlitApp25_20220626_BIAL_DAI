@@ -14,7 +14,8 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-
+repo: https://github.com/ThiBIAL/StreamlitApp25_20220626_BIAL_DAI
+streamlit app: https://app25-20220626-bial-dai.streamlit.app/
 
 
 
